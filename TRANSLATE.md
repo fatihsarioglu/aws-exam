@@ -2,7 +2,7 @@
 
 ## Sınav Konuları
 
-1. 1. Ölçeklendirilebilir, hataya dayanıklı ve düşük maliyetli mimari oluşturma (60%)
+1. Ölçeklendirilebilir, hataya dayanıklı ve düşük maliyetli mimari oluşturma (60%)
 2. Güvenli VPN tasarlama (AWS Kaynaklarını kullanan uygulamalar), IA Politikalarının nasıl kullanılacağı.  (20%)
 3. Uygulama (örneğin: iki katmanlı bir mimariyi nasıl uygularsınız) / Dağıtım (kaynakları AWS'ye nasıl geçirirsiniz) (% 10)
 4. Sorun Giderme (örnek: arızalı bir VM'yi nasıl geri(restore) yüklersiniz) (% 10)
